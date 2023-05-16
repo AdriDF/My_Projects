@@ -1,6 +1,6 @@
 ### Here you can find the Capstone Project I did with my team during my Data Analytics Bootcamp ###
 
-My project was 🇬🇧 POInterest - London Airbnb Explorer 🇬🇧
+![Alt](/Pointerest_logo.png "Pointerest - London Airbnb Explorer")
 
 POInterest is a dashboard tool that uses data combined from Airbnb, the Overpass API & Google Maps (via Selenium and Beautiful Soup) to filter for and find an optimal selection of Airbnbs for travelers.
 
