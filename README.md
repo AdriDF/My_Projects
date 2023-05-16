@@ -12,4 +12,6 @@ Our Tableau Dashboard:
 <p>allows you to book an Airbnb directly in the interface
 
 [Dashboard](https://public.tableau.com/views/POInterest-LondonAirbnbExplorer/FINALDASHBOARD?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link) | [Code](https://github.com/AdriDF/My_Projects/blob/main/Journeymans_Piece_Code_London_Airbnb_Explorer.ipynb) | [Presentation](https://github.com/AdriDF/My_Projects/blob/main/Journeymans_Piece_London_Airbnb_Explorer_Presentation.pdf)
+  
+  
 ![Dashboard Screenshot](https://github.com/AdriDF/My_Projects/blob/main/Journeymans_Piece_Dashboard_London_Airbnb_Explorer.png)
