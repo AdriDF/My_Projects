@@ -6,10 +6,10 @@ POInterest is a dashboard tool that uses data combined from Airbnb, the Overpass
 
 Our Tableau Dashboard:
 
-<p> filters by both Airbnb and POI filters
-<p> checks for fair prices via linear regression
-<p> helps you understanding your neighbourhood better
-<p> allows you to book an Airbnb directly in the interface
+* filters by both Airbnb and POI filters
+* checks for fair prices via linear regression
+* helps you understanding your neighbourhood better
+* allows you to book an Airbnb directly in the interface
 
 [Dashboard](https://public.tableau.com/views/POInterest-LondonAirbnbExplorer/FINALDASHBOARD?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link) | [Code](https://github.com/AdriDF/My_Projects/blob/main/Journeymans_Piece_Code_London_Airbnb_Explorer.ipynb) | [Presentation](https://github.com/AdriDF/My_Projects/blob/main/Journeymans_Piece_London_Airbnb_Explorer_Presentation.pdf)
   
